@@ -18,3 +18,4 @@ OctoAcme also emphasizes proactive communication, quality assurance, and continu
 - [OctoAcme — Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [OctoAcme — Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme — Role Clarity & Accountability Checklist](./octoacme-role-clarity-checklist.md)
